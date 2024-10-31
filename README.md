@@ -8,7 +8,7 @@
 
 </div>
 
-<h2 align="center"> TERIMA KASIH</h2>
+<h2 align="center"> ANALISIS </h3>
 Analisis
 zero-shot-classification
 
