@@ -8,4 +8,4 @@
 
 </div>
 
-<h2 align="center"> Analisis </h2>
+<h2 align="center"> SILAHKAN DI BACA </h2>
